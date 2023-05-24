@@ -28,9 +28,9 @@
 
 
 
-Adding comments for every solution in the employee.sql file
+**Added comments for every solution in the employee.sql file**
 
-Documentation followed - https://docs.snowflake.com/
+**Documentation** followed - https://docs.snowflake.com/
 
 for s3 integration - https://docs.snowflake.com/en/user-guide/data-load-s3-config-storage-integration
 
